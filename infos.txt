@@ -1,0 +1,12 @@
+Backend 
+Python
+
+Frontend
+HTML CSS JS
+
+
+
+#install extension : live server 
+apres click droit in index.html : open with live server 
+
+#install extension : jquery 
