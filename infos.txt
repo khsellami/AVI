@@ -4,9 +4,14 @@ Python
 Frontend
 HTML CSS JS
 
-
-
 #install extension : live server 
 apres click droit in index.html : open with live server 
 
 #install extension : jquery 
+
+#virtual env : python3 -m venv envavi
+
+#activate virtual env : source envavi/bin/activate
+
+Eel : link front with back 
+
